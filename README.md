@@ -1,1 +1,1 @@
-# Hacker-Rank.c
+# Hacker-Rank C++
